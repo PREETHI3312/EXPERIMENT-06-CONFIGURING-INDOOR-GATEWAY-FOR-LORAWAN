@@ -83,6 +83,12 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+![WhatsApp Image 2024-04-03 at 04 10 50_db163ce1](https://github.com/PREETHI3312/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/151625222/1087aaed-2e1d-4bb7-907c-6cb67da89445)
+![WhatsApp Image 2024-04-03 at 04 10 50_77dc0f49](https://github.com/PREETHI3312/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/151625222/fb5a6cb3-59f3-42c0-81b7-058a9c5cfbb5)
+![WhatsApp Image 2024-04-03 at 04 13 26_b3475786](https://github.com/PREETHI3312/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/151625222/7910098b-86ea-41d8-b8b5-3aa9dd673b15)
+
+
+
 
 
 
